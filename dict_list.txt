@@ -1,0 +1,1 @@
+{'Abkhazia': '244926', 'Afghanistan': '40218234', 'Aland_Islands': '30129'}
